@@ -1,0 +1,4 @@
+ work-speeding/input/for yolo/yolo_param.txt
+
+ https://github.com/CMU-Perceptual-Computing-Lab/openpose/blob/master/models/pose/coco/pose_deploy_linevec.prototxt
+ pose_iter_440000.caffemodel
